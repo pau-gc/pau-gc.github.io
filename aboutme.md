@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Welcome
+subtitle: Dr. Á. Paula Granados Contreras
 ---
 
-My name, for short, is Paula Granados. 
+My name, for short, is Paula Granados.
 
 ### My story
 
