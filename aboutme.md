@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: 
+subtitle: Welcome
 ---
 
-My name, for short is Paula Granados. 
+My name, for short, is Paula Granados. 
 
 ### My story
 
